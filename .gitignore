@@ -1,0 +1,29 @@
+# Secrets
+.env
+client_secret.json
+token.pickle
+
+# Videos / media (IMPORTANT)
+input/
+clips/
+captions/
+final_outputs/
+assets/
+
+# Catch any video anywhere
+*.mp4
+*.mov
+*.webm
+
+# Logs
+logs/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+#gitignore
+.gitignore
